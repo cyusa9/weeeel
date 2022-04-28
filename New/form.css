@@ -1,0 +1,40 @@
+body{
+	padding: 0;
+	background-image: url(cit.jpg);
+	height: 500px;
+}
+p{
+	font-family: arial;
+	font-size: 25px;
+}
+h2{
+	font-size: 30;
+	text-decoration: underline;
+	font-weight: bold;
+	font-style: italic;
+}
+form{
+	margin-left: 900px;
+	margin-top: -200px;
+}
+.set form{
+   background-color: rgba(210, 210,210, 5.5);
+   margin-left: 950px;
+   background-position: inherit;
+
+}
+
+}
+.sub{
+	width: 200px;
+	height: 30px;
+	border-radius: 25px;
+	background-color: rgba(59, 050, 059, 1.0);
+	color: orange;
+}
+.fim{
+	background-color: ;
+	color: #000;
+	border-radius: 20px;
+	border-color: #000;
+}
